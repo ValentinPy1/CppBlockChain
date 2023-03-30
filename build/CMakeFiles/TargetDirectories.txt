@@ -1,0 +1,3 @@
+/home/vpy/delivery/PersonalProjects/Web3/cppBlockChain/build/CMakeFiles/basic-blockchain.dir
+/home/vpy/delivery/PersonalProjects/Web3/cppBlockChain/build/CMakeFiles/edit_cache.dir
+/home/vpy/delivery/PersonalProjects/Web3/cppBlockChain/build/CMakeFiles/rebuild_cache.dir
